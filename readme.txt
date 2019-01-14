@@ -7,3 +7,5 @@ asdfasd
 asdfasdfasd
 
 asdfasdf
+
+Creating a new branch is quick & simple.
